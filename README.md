@@ -93,13 +93,13 @@ B.Tech Artificial Intelligence and Data Science
 ## Project Screenshots
 
 ### Alert State
-![Alert](alert.png)
+![Alert](alert%20(1).png)
 
 ### Drowsy State
-![Drowsy](drowsy.png)
+![Drowsy](Drowsy.png)
 
 ### Distracted - Looking Right
-![Distracted Right](distracted_right.png)
+![Distracted Right](Distracted%20(Right).png)
 
 ### Distracted - Looking Left
-![Distracted Left](distracted_left.png)
+![Distracted Left](Distracted(Left).png)
