@@ -93,7 +93,7 @@ B.Tech Artificial Intelligence and Data Science
 ## Project Screenshots
 
 ### Alert State
-![Alert](alert%20(1).png)
+![Alert]![Alert](alert.png)
 
 ### Drowsy State
 ![Drowsy](Drowsy.png)
