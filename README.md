@@ -93,17 +93,13 @@ B.Tech Artificial Intelligence and Data Science
 ## Project Screenshots
 
 ### Alert State
-
-![Alert]"C:\Users\DELL\OneDrive\Pictures\Screenshots 1\alert (1).png"
+![Alert](alert.png)
 
 ### Drowsy State
+![Drowsy](drowsy.png)
 
-![Drowsy]"C:\Users\DELL\OneDrive\Pictures\Screenshots 1\drowsy.png"
+### Distracted - Looking Right
+![Distracted Right](distracted_right.png)
 
-### Distracted State
-
-![Distracted]"C:\Users\DELL\OneDrive\Pictures\Screenshots 1\distracted_right.png"
-
-### Distracted State
-
-![Distracted]"C:\Users\DELL\OneDrive\Pictures\Screenshots 1\distracted_left.png"
+### Distracted - Looking Left
+![Distracted Left](distracted_left.png)
